@@ -1,6 +1,8 @@
 #include <iostream>
 #include <vector>
 #include <string>
+#include <glad/gl.h>
+#include <GLFW/glfw3.h>
 
 using namespace std;
 
